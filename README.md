@@ -1,3 +1,3 @@
-# website
-my website
-This experimantal file to learn pull and fetch
+# Website
+My Website
+This experimental file to learn pull and fetch
