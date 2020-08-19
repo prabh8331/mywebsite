@@ -5,5 +5,3 @@ Learning GitHub using Web.
 
 LINK TO WEBSITE- 
 https://prabh8331.github.io/mywebsite/
-
-Some updates//locally //github
